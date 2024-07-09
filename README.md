@@ -35,7 +35,9 @@ Also the divisor, D = ax + b..
    
 ![](https://github.com/3a3del/Algebraic-Division-Algorithm/blob/main/ouput.PNG)
                         
-  
+# Acknowledgments
+VLSI CAD Part I: Logic
+University of Illinois at Urbana-Champaign
                                         
   
   
