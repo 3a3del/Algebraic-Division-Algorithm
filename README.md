@@ -12,7 +12,7 @@ Algebraic division plays a significant role, particularly in factoring and optim
      techniques often involve transforming complex Boolean functions into more manageable forms, such as sum-of-products (SOP) or product-of-sums (POS) expressions, which are 
      easier to implement using standard logic gates.
 
-#Idea
+# Idea
 ![](https://github.com/3a3del/Algebraic-Division-Algorithm/blob/main/temp2.PNG)                    
 
 # Algebraic Division: Very Nice Algorithm
