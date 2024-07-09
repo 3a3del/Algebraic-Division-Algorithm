@@ -19,9 +19,13 @@ Algebraic division plays a significant role, particularly in factoring and optim
 - Inputs:
   - A Boolean expression F and a D divisor (to divide by) D, represented as lists of cubes(and each cube a set of literals).
   - The input F text file should be in form like if F = axc + axd + axe + bc + bd + de so...
+  - 
 ![](https://github.com/3a3del/Algebraic-Division-Algorithm/blob/main/temp.PNG)
 
+
 Also the divisor, D = ax + b..
+
+
 ![](https://github.com/3a3del/Algebraic-Division-Algorithm/blob/main/temp3.PNG)
 
 # Output 
