@@ -1,0 +1,7 @@
+Quotient:
+c
+d
+
+Remainder:
+a e x
+d e
