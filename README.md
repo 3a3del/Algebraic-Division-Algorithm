@@ -7,6 +7,11 @@ Algebraic division plays a significant role, particularly in factoring and optim
    - Algebraic division is utilized to identify and eliminate common subexpressions within the logic function. By dividing the original expression by a common factor, the 
      resultant factors can be combined or simplified to reduce the overall number of gates required to implement the circuit. This reduction is crucial in improving the 
      efficiency and performance of the designed digital circuit.
+3. Algebraic Manipulation Techniques:
+   - Various algebraic manipulation techniques, including algebraic division, are employed in Multilevel Synthesis to transform and optimize Boolean expressions. These techniques 
+    often involve transforming complex Boolean functions into more manageable forms, such as sum-of-products (SOP) or product-of-sums (POS) expressions, which are easier to 
+    implement using standard logic gates.
+
                                         
   
   
